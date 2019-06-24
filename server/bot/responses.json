@@ -1,0 +1,43 @@
+{
+ 
+    "answers": [
+        {
+            "intent": "CaseWorker",
+            "answer": "Let me put you in contact with a Case worker near you… Hold on"
+        },
+        {
+            "intent": "What_is_CALiAM",
+            "answer": "CALiAM was created by Gayathri, Hyangjoo, Joel and Robert so that you could get your free Digital Identification. Putting the services you need WHERE you need them and WHEN you need them most!            !"
+        },
+        {
+            "intent": "Medical_Care",
+            "answer": "Sorry to hear you are not feeling well, let me find you a place to get better near you"
+        },
+        {
+            "intent": "Employment",
+            "answer": "Let me find you a resources for employment near you.."
+        },
+        {
+            "intent": "Eating_Accommodations",
+            "answer": "Let me find you somewhere to get a free tasty meal near your location… Stand by"
+        },
+        {
+            "intent": "Sleeping_Accommodations",
+            "answer": "I have found a place for you to sleep.. Here it is"
+        },
+        {
+            "intent": "Transportation",
+            "answer": "Here is a great way to get to where you need to… Check it out"
+        },
+        {
+            "intent": "Identification",
+            "answer": "Let me show you how easy it is to use CALiAM to get your digital ID!"
+        },
+        {
+            "intent": "None",
+            "modelq": "Exclude",
+            "shortq": "Exclude",
+            "answer": "Sorry, I do not understand. Please try and re-phrase your question."
+        }
+    ]
+}
